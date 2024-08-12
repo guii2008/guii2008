@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**guii2008/guii2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme Botelho
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://ww.alura.com.br)
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilharmento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+00001127285129sp@al.educacao.sp.gov.br
+
+@gui.botelhoo
+
+![](<img src="https://media1.tenor.com/m/s1bdw4t67GAAAAAd/cavalinho-corinthians.gif" alt="a person is holding a stuffed animal with a tiger embroidered on it"/>![image](https://github.com/user-attachments/assets/e34b7359-14ed-4250-a878-beea64061c94)
+)
